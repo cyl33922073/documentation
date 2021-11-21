@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Nextcloud latest User Manual latest\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-10-28 05:14+0000\n"
+"POT-Creation-Date: 2021-11-21 16:30+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -236,54 +236,70 @@ msgstr ""
 msgid "Only the calendar owner can send out invitations, the sharees are not able to do that, whether they have write access to the event's calendar or not."
 msgstr ""
 
-#: ../../pim/calendar.rst:179
-msgid "Setup Reminders"
+#: ../../pim/calendar.rst:178
+msgid "The server administration needs to setup the e-mail server in the 'Basic settings' tab, as this mail will be used to send invitations."
 msgstr ""
 
 #: ../../pim/calendar.rst:181
-msgid "You can set up reminders to be notified before an event occurs. Currently supported notification methods are :"
+msgid "Assign rooms and resources to an event"
 msgstr ""
 
 #: ../../pim/calendar.rst:183
-msgid "Email notifications"
+msgid "Similar to attendees you can add rooms and resources to your events. The system will make sure that each room and resource is booked without conflict. The first time a user adds the room or resource to an event, it will show as accepted. Any further events at overlapping times will show the room or resource as rejected."
 msgstr ""
 
-#: ../../pim/calendar.rst:184
-msgid "Nextcloud notifications"
+#: ../../pim/calendar.rst:185
+msgid "Rooms and resources are not managed by Nextcloud itself and the Calendar app will not allow you to add or change a resource. Your Administrator has to install and possibly configure resource back ends before you can use them as a user."
 msgstr ""
 
-#: ../../pim/calendar.rst:186
-msgid "You may set reminders at a time relative to the event or at a specific date."
+#: ../../pim/calendar.rst:188
+msgid "Setup Reminders"
 msgstr ""
 
 #: ../../pim/calendar.rst:190
-msgid "Only the calendar owner and people or groups with whom the calendar is shared with write access will get notifications. If you don't get any notifications but think you should, your Administrator could also have disabled this for your server."
+msgid "You can set up reminders to be notified before an event occurs. Currently supported notification methods are :"
 msgstr ""
 
 #: ../../pim/calendar.rst:192
+msgid "Email notifications"
+msgstr ""
+
+#: ../../pim/calendar.rst:193
+msgid "Nextcloud notifications"
+msgstr ""
+
+#: ../../pim/calendar.rst:195
+msgid "You may set reminders at a time relative to the event or at a specific date."
+msgstr ""
+
+#: ../../pim/calendar.rst:199
+msgid "Only the calendar owner and people or groups with whom the calendar is shared with write access will get notifications. If you don't get any notifications but think you should, your Administrator could also have disabled this for your server."
+msgstr ""
+
+#: ../../pim/calendar.rst:201
 msgid "If you synchronize your calendar with mobile devices or other 3rd-party clients, notifications may also show up there."
 msgstr ""
 
-#: ../../pim/calendar.rst:196
+#: ../../pim/calendar.rst:205
 msgid "Add recurring options"
 msgstr ""
 
-#: ../../pim/calendar.rst:198
+#: ../../pim/calendar.rst:207
 msgid "An event may be set as \"recurring\", so that it can happen every day, week, month or year. Specific rules can be added to set which day of the week the event happens or more complex rules, such as every fourth Wednesday of each month."
 msgstr ""
 
-#: ../../pim/calendar.rst:200
+#: ../../pim/calendar.rst:209
 msgid "You can also tell when the recurrence ends."
 msgstr ""
 
-#: ../../pim/calendar.rst:205
+#: ../../pim/calendar.rst:214
 msgid "Birthday calendar"
 msgstr ""
 
-#: ../../pim/calendar.rst:207
+#: ../../pim/calendar.rst:216
 msgid "The birthday calendar is a auto-generated calendar which will automatically fetch the birthdays from your contacts. The only way to edit this calendar is by filing your contacts with birthday dates. You can not directly edit this calendar from the calendar-app."
 msgstr ""
 
-#: ../../pim/calendar.rst:212
+#: ../../pim/calendar.rst:221
 msgid "If you do not see the birthday calendar, your Administrator may have disabled this for your server."
 msgstr ""
