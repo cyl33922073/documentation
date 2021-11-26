@@ -5,8 +5,8 @@ Synchronizing with Android
 Files and notifications
 -----------------------
 
-1. Install the Nextcloud Android client `from Google Play Store <https://play.google.com/store/apps/details?id=com.nextcloud.client>`_ or 
-   `from F-Droid <https://f-droid.org/de/packages/com.nextcloud.client/>`_.
+1. Install the Nextcloud Android client `from Google Play Store <https://play.google.com/store/apps/details?id=com.nextcloud.client>`__ or 
+   `from F-Droid <https://f-droid.org/de/packages/com.nextcloud.client/>`__.
 2. Start the app. There are two ways of setting it up:
 
    *Either*: enter
@@ -26,8 +26,8 @@ With the Nextcloud mobile app
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 1. Install `DAVx⁵ (formerly known as DAVDroid) <https://www.davx5.com/download/>`_ on your Android device, 
-   `from Google Play Store <https://play.google.com/store/apps/details?id=at.bitfire.davdroid>`_ or 
-   `from F-Droid <https://f-droid.org/de/packages/at.bitfire.davdroid/>`_.
+   `from Google Play Store <https://play.google.com/store/apps/details?id=at.bitfire.davdroid>`__ or 
+   `from F-Droid <https://f-droid.org/de/packages/at.bitfire.davdroid/>`__.
 2. In the Nextcloud mobile, go
    to **Settings** / **More**, tap on "**Sync calendars & contacts**".
 3. Now, DAVx⁵ will open Nextcloud's Webflow login window, where you
@@ -51,9 +51,9 @@ If you don't want to install the Nextcloud mobile app, the following
 steps are required:
 
 1. Install `DAVx⁵ (formerly known as DAVDroid) <https://www.davx5.com/download/>`_ on your Android device, 
-   `from Google Play Store <https://play.google.com/store/apps/details?id=at.bitfire.davdroid>`_ or 
+   `from Google Play Store <https://play.google.com/store/apps/details?id=at.bitfire.davdroid>`__ or 
    `from F-Droid <https://f-droid.org/de /packages/at.bitfire.davdroid/>`_.
-2. Optionally install `OpenTasks <https://play.google.com/store/apps/details?id=org.dmfs.tasks>`_.
+2. Optionally install `OpenTasks <https://play.google.com/store/apps/details?id=org.dmfs.tasks>`__.
 3. Create a new account ("+" button).
 4. Select **Connection with URL and username**.
    **Base URL:** URL of your Nextcloud instance (e.g. ``https://sub.example.com/remote.php/dav``) and 
@@ -70,4 +70,4 @@ steps are required:
    account using the Nextcloud mobile app, this all should be aready the case.
 
 
-.. tip:: DAVx⁵ lists the calendar subscriptions made through the Nextcloud Calendar app, but you need to install the `ICSx⁵ (formerly known as ICSDroid) <https://icsx5.bitfire.at/>`_ app on your Android device, `from the Google Play Store <https://play.google.com/store/apps/details?id=at.bitfire.icsdroid>`_ or `from F-Droid <https://f-droid.org/packages/at.bitfire.icsdroid/>`_ to sync them.
+.. tip:: DAVx⁵ lists the calendar subscriptions made through the Nextcloud Calendar app, but you need to install the `ICSx⁵ (formerly known as ICSDroid) <https://icsx5.bitfire.at/>`_ app on your Android device, `from the Google Play Store <https://play.google.com/store/apps/details?id=at.bitfire.icsdroid>`__ or `from F-Droid <https://f-droid.org/packages/at.bitfire.icsdroid/>`__ to sync them.
